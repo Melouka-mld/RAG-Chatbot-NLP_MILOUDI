@@ -1,4 +1,4 @@
-# 🤖 RAG Chatbot — NLP Module 2025
+#  RAG Chatbot — NLP Module 2025
 
 > Question-Answering chatbot using **Retrieval-Augmented Generation (RAG)**  
 > Built with LangChain · FAISS · HuggingFace · Gradio
