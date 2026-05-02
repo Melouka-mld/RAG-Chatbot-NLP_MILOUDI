@@ -1,0 +1,25 @@
+Question,Answer,Method,Time(s),Chunks
+What do customers say about delivery speed?,"Most Common Complaints:
+- Delayed shipping beyond promised dates
+- Wrong or broken items received
+- Poor customer service response time
+- Product qual",RAG retrieval,0.0,3
+What are the most common complaints?,"Most Common Complaints:
+- Delayed shipping beyond promised dates
+- Wrong or broken items received
+- Poor customer service response time
+- Product qual",RAG retrieval,0.0,3
+How satisfied are customers with product quality?,"Most Common Complaints:
+- Delayed shipping beyond promised dates
+- Wrong or broken items received
+- Poor customer service response time
+- Product qual",RAG retrieval,0.0,3
+How was the customer service described?,"Service Comment 4 (Negative):
+Sent 4 emails over 2 weeks with no reply whatsoever.
+The phone line always goes straight to voicemail.
+Completely unacce",RAG retrieval,0.0,3
+How long did the refund process take?,"=== CUSTOMER SERVICE FEEDBACK ===
+
+Service Comment 1 (Positive):
+The customer service team was absolutely excellent!
+They resolved my issue in under 1",RAG retrieval,0.0,3
