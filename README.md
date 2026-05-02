@@ -7,10 +7,10 @@
 
 ---
 
-## 📌 What is RAG?
+##  What is RAG?
 
 ```
-YOUR DOCUMENTS (data/)
+ DOCUMENTS (data/)
         ↓
    Cut into chunks (800 chars)
         ↓
@@ -25,7 +25,7 @@ YOUR DOCUMENTS (data/)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 RAG-Chatbot-NLP_MILOUDI/
@@ -44,7 +44,7 @@ RAG-Chatbot-NLP_MILOUDI/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Tool |
 |-----------|------|
@@ -56,7 +56,7 @@ RAG-Chatbot-NLP_MILOUDI/
 
 ---
 
-## 🚀 How to Run (Google Colab)
+##  How to Run (Google Colab)
 
 ### 1. Open the notebook
 Upload `MILOUDI_RAG_CHATBOT_2025.ipynb` to Google Colab
@@ -75,7 +75,7 @@ A public gradio.live link appears → click it → chatbot is ready!
 
 ---
 
-## 🤖 LLM Details
+##  LLM Details
 
 | Property | Value |
 |----------|-------|
@@ -91,7 +91,7 @@ A public gradio.live link appears → click it → chatbot is ready!
 
 ---
 
-## 🧮 Embedding Model
+##  Embedding Model
 
 | Property | Value |
 |----------|-------|
@@ -101,7 +101,7 @@ A public gradio.live link appears → click it → chatbot is ready!
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **File:** `data/comments.txt`
 **Content:** E-commerce customer comments including:
@@ -112,18 +112,17 @@ A public gradio.live link appears → click it → chatbot is ready!
 
 ---
 
-## ⚠️ Problems Encountered
+##  Problems Encountered
 
 | Problem | Solution |
 |---------|----------|
 | numpy.char conflict in Colab | Reinstall numpy==1.26.4, restart runtime |
 | flan-t5 removed from free API (2025) | Migrated to Mistral-7B-Instruct-v0.3 |
 | HTTP 403 on HuggingFace | New token with correct permissions |
-| Git push 403 | New classic token with repo scope |
 
 ---
 
-## 👤 Author
+##  Author
 
 **MILOUDI** · NLP Module · 2025  
 GitHub: [@Melouka-mld](https://github.com/Melouka-mld)  
