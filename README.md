@@ -124,6 +124,6 @@ A public gradio.live link appears → click it → chatbot is ready!
 
 ##  Author
 
-**MILOUDI** · NLP Module · 2025  
+**MILOUDI** · NLP 2026  
 GitHub: [@Melouka-mld](https://github.com/Melouka-mld)  
 Repository: https://github.com/Melouka-mld/RAG-Chatbot-NLP_MILOUDI
