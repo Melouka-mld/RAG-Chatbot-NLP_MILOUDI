@@ -1,0 +1,110 @@
+CUSTOMER COMMENTS DATASET — E-COMMERCE PLATFORM
+================================================
+Datasource for RAG pipeline — NLP Module Project 2025
+Student: MILOUDI — GitHub: Melouka-mld
+
+=== PRODUCT REVIEWS ===
+
+Review 1 — Rating 5/5 (Positive):
+The product arrived in perfect condition. Delivery was incredibly fast, only 2 days!
+The quality far exceeded my expectations. The packaging was professional and eco-friendly.
+I will definitely order from this seller again. Highly recommended to everyone!
+
+Review 2 — Rating 1/5 (Negative):
+Very disappointed with this purchase. The item arrived broken and unusable.
+Customer service was slow to respond and completely unhelpful.
+I have been waiting 3 weeks for a refund with no resolution.
+This is completely unacceptable for a paid product.
+
+Review 3 — Rating 5/5 (Positive):
+Excellent quality product! The material feels premium and very durable.
+Packaging was neat and eco-friendly which I really appreciate.
+Great value for the price. I will recommend this to all my friends.
+
+Review 4 — Rating 3/5 (Neutral):
+The product is decent but not exceptional.
+Delivery took 7 days instead of the promised 3 days.
+The color was slightly different from the website photos.
+Overall an average experience — nothing special.
+
+Review 5 — Rating 1/5 (Negative):
+Terrible experience from start to finish. The wrong item was sent to me.
+I contacted customer support 3 times with no resolution whatsoever.
+I want a full refund or a correct replacement immediately.
+
+Review 6 — Rating 5/5 (Positive):
+Amazing product, exactly as described on the website. No surprises!
+Super fast shipping, arrived in 1 day. The seller is very professional.
+Will buy again without hesitation.
+
+Review 7 — Rating 4/5 (Positive):
+Good product overall. Easy to set up and use right out of the box.
+Instructions were clear and well-written. Customer support was helpful.
+Minor complaint: the color was slightly darker than expected.
+
+Review 8 — Rating 2/5 (Negative):
+Product stopped working after just one week of normal use.
+Very poor quality compared to the price I paid.
+Expected much better durability for this price range.
+
+=== SHIPPING & DELIVERY FEEDBACK ===
+
+Shipping Comment 1 (Positive):
+Delivery was incredibly fast. Ordered on Monday and it arrived Wednesday morning.
+Package was very well protected with bubble wrap. Zero damage at all.
+
+Shipping Comment 2 (Negative):
+Shipping was delayed by 5 days with no notification or explanation.
+Tracking information was inaccurate and very confusing to follow.
+Very frustrating experience with the delivery service.
+
+Shipping Comment 3 (Neutral):
+Used standard shipping and the package arrived in 4 business days.
+Item was protected adequately. Nothing special but nothing bad either.
+
+Shipping Comment 4 (Positive):
+Express shipping was worth every extra penny. Arrived the next morning.
+Professional packaging with clear labels. Very impressed overall.
+
+=== CUSTOMER SERVICE FEEDBACK ===
+
+Service Comment 1 (Positive):
+The customer service team was absolutely excellent!
+They resolved my issue in under 10 minutes. Friendly, professional, and efficient.
+Best customer service experience I have had in years.
+
+Service Comment 2 (Negative):
+Waited on hold for 3 hours and never got to speak with a human agent.
+The chatbot was completely useless and could not understand my problem at all.
+This company urgently needs to improve its customer support system.
+
+Service Comment 3 (Positive):
+The refund process was smooth and hassle-free.
+Received my money back within 5 business days as promised.
+Thank you for the quick and professional resolution.
+
+Service Comment 4 (Negative):
+Sent 4 emails over 2 weeks with no reply whatsoever.
+The phone line always goes straight to voicemail.
+Completely unacceptable customer service for a business of this size.
+
+=== STATISTICAL SUMMARY ===
+
+Overall Customer Satisfaction Summary:
+- 50% of customers gave 5-star (Excellent) ratings
+- 12% gave 4-star (Good) ratings
+- 13% gave 3-star (Average) ratings
+- 25% gave 1-2 star (Poor) ratings
+
+Most Common Positive Points:
+- Fast delivery and shipping speed
+- Professional and protective packaging
+- High product quality and durability
+- Responsive and helpful customer service
+
+Most Common Complaints:
+- Delayed shipping beyond promised dates
+- Wrong or broken items received
+- Poor customer service response time
+- Product quality not matching the price
+- Refund process taking too long

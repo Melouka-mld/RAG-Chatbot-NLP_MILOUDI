@@ -1,0 +1,9 @@
+.env
+faiss_db/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.cache/
+venv/
+.venv/
+.DS_Store
